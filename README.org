@@ -3,7 +3,7 @@ I made a small static page to practice React. I built this on my own but took
 reference from [[https://www.youtube.com/watch?v=bMknfKXIFA8][this react course]].
 
 Here is a preview of what my page looks like:
-[[./src/static-page-preview.png][page-preview]]
+[[file:src/static-page-preview.png]]
 
 This project was bootstrapped with [[https://github.com/facebook/create-react-app][Create React App]].
 
